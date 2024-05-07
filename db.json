@@ -1,21 +1,6 @@
 {
     "checks": [
       {
-        "id": "1",
-        "adres": "van Dijkstraat 130, 2242HJ",
-        "nieuw": false,
-        "Schade": {
-          "schadeGemeld": false,
-          "schadeNieuw": "False",
-          "schadeLocatie": "",
-          "schadeSoort": "normaal gebruik",
-          "schadeDatum": "",
-          "schadeAcuut": "False",
-          "schadeOmschrijving": "",
-          "schadeFotos": ""
-        }
-      },
-      {
         "id": "2",
         "nieuw": true,
         "adres": "Langeweg 2B, 4622DY",
