@@ -84,6 +84,48 @@
           "invOpmerking": "",
           "invFotos": ""
         }
+      }, {
+        "id": "4",
+        "adres": "Braamweg 40, 7209AK",
+        "nieuw": false,
+        "Schade": {
+          "schadeGemeld": true,
+          "schadeNieuw": "True",
+          "schadeLocatie": "Trap",
+          "schadeSoort": "normaal gebruik",
+          "schadeDatum": "2024-03-12",
+          "schadeAcuut": "True",
+          "schadeOmschrijving": "Leuning Kapot",
+          "schadeFotos": ""
+        },
+        "Onderhoud": {
+          "onderhoudGemeld": true,
+          "onderhoudLocatie": "trede",
+          "onderhoudSoort": "houtrot",
+          "onderhoudAcuut": "True",
+          "onderhoudPrijs": "1500+",
+          "onderhoudFotos": ""
+        },
+        "Inspectie": {
+          "inspectieGemeld": true,
+          "inspectieLocatie": "trap",
+          "inspectieSoort": "verwarming",
+          "inspectieStoring": "te  koel onder trap",
+          "inspectieProcedure": "",
+          "inspectieGoedgekeurd": "False",
+          "inspectieOpmerking": "wachten op goedkeuring",
+          "inspectieFotos": ""
+        },
+        "Inventarisatie": {
+          "inventarisatieGemeld": true,
+          "invSituatie": "",
+          "invLocatie": "Trap",
+          "invUitvoerder": "aanemer",
+          "invBeschrijving": "trap maken",
+          "invActie": "keuren",
+          "invOpmerking": "keur op acceptatie",
+          "invFotos": ""
+        }
       }
     ],
     "blogs": [
