@@ -90,28 +90,28 @@
       {
           "id" : "1",
           "titel" : "Wet woekerhuur",
-          "img" : "src\\assets\\images\\blog\\blog1.png",
+          "img" : "\\images\\blog\\blog1.png",
           "content" : "Er komt mogelijk een limiet aan woekerhuren in de vrije sector. In de Tweede Kamer lijkt zich een meerderheid af te tekenen voor de"
   
       },
       {
           "id" : "2",
           "titel" : "Brandveiligheid van nieuwe Woningen",
-          "img" : "src\\assets\\images\\blog\\blog2.png",
+          "img" : "\\images\\blog\\blog2.png",
           "content" : "Risico’s afwegen en beperken en nieuwe kennis vergaren. Uit het onderzoek komen de volgende lessen en oplossingsrichtingen naar voren:1. Zorgvuldig "
   
       },
       {
           "id" : "3",
           "titel" : "Cv Ketel Vervangen",
-          "img" : "src\\assets\\images\\blog\\blog3.png",
+          "img" : "\\images\\blog\\blog3.png",
           "content" : "Vanaf 2026 moet iedereen bij vervanging van de cv-ketel overstappen op een duurzamer alternatief. In veel gevallen is dit een cv-ketel in combinatie met een hybride warmtepomp."
   
       },
       {
           "id" : "4",
           "titel" : "Rechten van de huurder",
-          "img" : "src\\assets\\images\\blog\\blog4.png",
+          "img" : "\\images\\blog\\blog4.png",
           "content" : "Rechten en plichten huurder en verhuurder Zodra je een huurovereenkomst met de verhuurder hebt getekend, gelden er voor beide partijen rechten en plichten. Deze zullen wij hieronder kort uiteenzetten. Ongeacht wat je gaat huren: voor zowel de huurder als de verhuurder zijn er basisverplichtingen. "
   
       }
