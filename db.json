@@ -3,6 +3,7 @@
       {
         "id": "1",
         "adres": "van Dijkstraat 130, 2242HJ",
+        "datum": "2024-08-03",
         "nieuw": false,
         "Schade": {
           "schadeGemeld": false,
@@ -47,6 +48,7 @@
         "id": "2",
         "nieuw": true,
         "adres": "Langeweg 2B, 4622DY",
+        "datum": "2024-05-06",
         "Schade": {
           "schadeGemeld": false,
           "schadeNieuw": "False",
@@ -90,6 +92,7 @@
         "id": "3",
         "nieuw": true,
         "adres": "Hoofdstraat 200C, 1020RR",
+        "datum": "2024-05-03",
         "Schade": {
           "schadeGemeld": true,
           "schadeNieuw": "",
@@ -130,6 +133,7 @@
       }, {
         "id": "4",
         "adres": "Braamweg 40, 7209AK",
+        "datum": "2024-04-20",
         "nieuw": false,
         "Schade": {
           "schadeGemeld": false,
@@ -171,6 +175,7 @@
       }, {
         "id": "5",
         "adres": "Parklaan 10b",
+        "datum": "2024-04-10",
         "nieuw": false,
         "Schade": {
           "schadeGemeld": false,
