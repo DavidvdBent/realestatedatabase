@@ -1,6 +1,49 @@
 {
     "checks": [
       {
+        "id": "1",
+        "adres": "van Dijkstraat 130, 2242HJ",
+        "nieuw": false,
+        "Schade": {
+          "schadeGemeld": false,
+          "schadeNieuw": "False",
+          "schadeLocatie": "",
+          "schadeSoort": "normaal gebruik",
+          "schadeDatum": "",
+          "schadeAcuut": "False",
+          "schadeOmschrijving": "",
+          "schadeFotos": ""
+        },
+        "Onderhoud": {
+          "onderhoudGemeld": true,
+          "onderhoudLocatie": "aa",
+          "onderhoudSoort": "anders",
+          "onderhoudAcuut": "False",
+          "onderhoudPrijs": "0-500",
+          "onderhoudFotos": ""
+        },
+        "Inspectie": {
+          "inspectieGemeld": true,
+          "inspectieLocatie": "aa",
+          "inspectieSoort": "anders",
+          "inspectieStoring": "",
+          "inspectieProcedure": "",
+          "inspectieGoedgekeurd": "True",
+          "inspectieOpmerking": "",
+          "inspectieFotos": ""
+        },
+        "Inventarisatie": {
+          "inventarisatieGemeld": true,
+          "invSituatie": "",
+          "invLocatie": "aa",
+          "invUitvoerder": "",
+          "invBeschrijving": "",
+          "invActie": "",
+          "invOpmerking": "",
+          "invFotos": ""
+        }
+      },
+      {
         "id": "2",
         "nieuw": true,
         "adres": "Langeweg 2B, 4622DY",
@@ -123,6 +166,47 @@
           "invBeschrijving": "trap maken",
           "invActie": "keuren",
           "invOpmerking": "keur op acceptatie",
+          "invFotos": ""
+        }
+      }, {
+        "id": "5",
+        "adres": "Parklaan 10b",
+        "nieuw": false,
+        "Schade": {
+          "schadeGemeld": false,
+          "schadeNieuw": "",
+          "schadeLocatie": "",
+          "schadeSoort": "",
+          "schadeDatum": "",
+          "schadeAcuut": "",
+          "schadeOmschrijving": ""
+        },
+        "Onderhoud": {
+          "onderhoudGemeld": false,
+          "onderhoudLocatie": "",
+          "onderhoudSoort": "",
+          "onderhoudAcuut": "",
+          "onderhoudPrijs": "",
+          "onderhoudFotos": ""
+        },
+        "Inspectie": {
+          "inspectieGemeld": true,
+          "inspectieLocatie": "trap",
+          "inspectieSoort": "verwarming",
+          "inspectieStoring": "te  koel onder trap",
+          "inspectieProcedure": "",
+          "inspectieGoedgekeurd": "False",
+          "inspectieOpmerking": "wachten op goedkeuring",
+          "inspectieFotos": ""
+        },
+        "Inventarisatie": {
+          "inventarisatieGemeld": false,
+          "invSituatie": "",
+          "invLocatie": "",
+          "invUitvoerder": "",
+          "invBeschrijving": "",
+          "invActie": "",
+          "invOpmerking": "",
           "invFotos": ""
         }
       }
