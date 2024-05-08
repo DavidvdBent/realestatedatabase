@@ -4,19 +4,19 @@
         "id": "1",
         "adres": "van Dijkstraat 130, 2242HJ",
         "datum": "2024-08-03",
-        "nieuw": false,
+        "nieuw": true,
         "Schade": {
           "schadeGemeld": false,
           "schadeNieuw": "False",
           "schadeLocatie": "",
-          "schadeSoort": "normaal gebruik",
+          "schadeSoort": "",
           "schadeDatum": "",
           "schadeAcuut": "False",
           "schadeOmschrijving": "",
           "schadeFotos": ""
         },
         "Onderhoud": {
-          "onderhoudGemeld": true,
+          "onderhoudGemeld": false,
           "onderhoudLocatie": "aa",
           "onderhoudSoort": "anders",
           "onderhoudAcuut": "False",
@@ -34,7 +34,7 @@
           "inspectieFotos": ""
         },
         "Inventarisatie": {
-          "inventarisatieGemeld": true,
+          "inventarisatieGemeld": false,
           "invSituatie": "",
           "invLocatie": "aa",
           "invUitvoerder": "",
