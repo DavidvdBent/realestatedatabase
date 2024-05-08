@@ -89,14 +89,13 @@
         "adres": "Braamweg 40, 7209AK",
         "nieuw": false,
         "Schade": {
-          "schadeGemeld": true,
-          "schadeNieuw": "True",
-          "schadeLocatie": "Trap",
-          "schadeSoort": "normaal gebruik",
-          "schadeDatum": "2024-03-12",
-          "schadeAcuut": "True",
-          "schadeOmschrijving": "Leuning Kapot",
-          "schadeFotos": ""
+          "schadeGemeld": false,
+          "schadeNieuw": "",
+          "schadeLocatie": "",
+          "schadeSoort": "",
+          "schadeDatum": "",
+          "schadeAcuut": "",
+          "schadeOmschrijving": ""
         },
         "Onderhoud": {
           "onderhoudGemeld": true,
