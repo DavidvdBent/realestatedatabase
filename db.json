@@ -7,29 +7,29 @@
         "nieuw": true,
         "Schade": {
           "schadeGemeld": false,
-          "schadeNieuw": "False",
+          "schadeNieuw": "",
           "schadeLocatie": "",
           "schadeSoort": "",
           "schadeDatum": "",
-          "schadeAcuut": "False",
+          "schadeAcuut": "",
           "schadeOmschrijving": "",
           "schadeFotos": ""
         },
         "Onderhoud": {
           "onderhoudGemeld": false,
-          "onderhoudLocatie": "aa",
-          "onderhoudSoort": "anders",
-          "onderhoudAcuut": "False",
-          "onderhoudPrijs": "0-500",
+          "onderhoudLocatie": "",
+          "onderhoudSoort": "",
+          "onderhoudAcuut": "",
+          "onderhoudPrijs": "",
           "onderhoudFotos": ""
         },
         "Inspectie": {
           "inspectieGemeld": true,
-          "inspectieLocatie": "aa",
-          "inspectieSoort": "anders",
+          "inspectieLocatie": "",
+          "inspectieSoort": "",
           "inspectieStoring": "",
           "inspectieProcedure": "",
-          "inspectieGoedgekeurd": "True",
+          "inspectieGoedgekeurd": "",
           "inspectieOpmerking": "",
           "inspectieFotos": ""
         },
@@ -56,7 +56,7 @@
           "schadeSoort": "normaal gebruik",
           "schadeDatum": "",
           "schadeAcuut": "False",
-          "schadeOmschrijving": "",
+          "schadeOmschrijving": "lange weg schade",
           "schadeFotos": ""
         },
         "Onderhoud": {
